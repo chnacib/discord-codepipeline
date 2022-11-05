@@ -27,13 +27,3 @@ variable "topic_name" {
     type = string
   
 }
-
-variable "filename_function" {
-    type = string
-  
-}
-
-variable "filename_layer" {
-    type = string
-  
-}
