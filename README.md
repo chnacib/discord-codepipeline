@@ -36,7 +36,7 @@ module "lambda_sns" {
 
 ```
 
-Deploy
+Deploy terraform module
 
 ```
 terraform init
