@@ -54,6 +54,9 @@ terraform apply -auto-approve
 
 ![image](https://user-images.githubusercontent.com/84737230/200148000-10dcd6ef-513b-446d-96bf-f683c859081d.png)
 
+#### Choose a sns topic target
+![image](https://user-images.githubusercontent.com/84737230/200149007-90012ab1-ca8b-4cd4-a093-52797964ace8.png)
+
 
 ## Providers
 
