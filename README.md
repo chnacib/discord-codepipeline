@@ -10,6 +10,7 @@ A discord notification triggered by codepipeline, using SNS and AWS Lambda.
 ## How to get Discord token and webhook
 
 Follow this tutorial to get Discord Token: [link](https://linuxhint.com/get-discord-token/) 
+
 Follow this tutorial to get Discord Webhook url: [link](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
 
