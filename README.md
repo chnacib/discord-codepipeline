@@ -4,6 +4,17 @@
 
 A discord notification triggered by codepipeline, using SNS and AWS Lambda.
 
+## Requirements
+
+* [awscli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+* [terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+
+## How to get Discord token and webhook
+
+Follow this tutorial to get Discord Token: [link](https://linuxhint.com/get-discord-token/) 
+Follow this tutorial to get Discord Webhook url: [link](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+
+
 ## How to use this module
 
 Clone this repo
@@ -11,10 +22,6 @@ Clone this repo
 git clone https://github.com/chnacib/discord-codepipeline.git
 cd discord-codepipeline/module
 ```
-## Requirements
-
-* [awscli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-* [terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 
 Edit ``terrafile.tf`` and replace variables in module
 ```
