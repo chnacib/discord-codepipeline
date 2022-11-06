@@ -40,7 +40,12 @@ terraform apply -auto-approve
 
 ## Create Codepipeline notification rule
 
-click on "Create notification rule"
+#### click on "Create notification rule"
 
-This application only supports some events, so mark the checkbox as this example
+![image](https://user-images.githubusercontent.com/84737230/200147969-8658bcfb-2bf8-4d79-be37-d847d6ccc92e.png)
+
+#### This application only supports some events, so mark the checkbox as this example
+
+![image](https://user-images.githubusercontent.com/84737230/200148000-10dcd6ef-513b-446d-96bf-f683c859081d.png)
+
 
