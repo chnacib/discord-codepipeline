@@ -1,29 +1,29 @@
 variable "region" {
-    type = string
-  
+  type = string
+
 }
 
 variable "account_id" {
-    type = string
-  
+  type = string
+
 }
 
 variable "token" {
-    type = string
-  
+  type = string
+
 }
 
 variable "url" {
-    type = string
-  
+  type = string
+
 }
 
 variable "function_name" {
-    type = string
-  
+  type = string
+
 }
 
 variable "topic_name" {
-    type = string
-  
+  type = string
+
 }

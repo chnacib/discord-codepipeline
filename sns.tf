@@ -1,11 +1,11 @@
 resource "aws_sns_topic" "topic" {
   name = var.topic_name
-  
+
 }
 
 resource "aws_sns_topic_policy" "topic_policy" {
-  arn = aws_sns_topic.topic.arn
-    policy = <<EOF
+  arn    = aws_sns_topic.topic.arn
+  policy = <<EOF
   {
     "Version": "2008-10-17",
     "Id": "__default_policy_ID",
