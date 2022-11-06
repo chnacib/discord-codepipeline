@@ -92,6 +92,6 @@ terraform apply -auto-approve
 | <a name="input_topic_name"></a> [topic\_name](#input\_topic\_name) | SNS Topic name | `string` | n/a | yes |
 | <a name="input_url"></a> [url](#input\_url) | Discord Webhook URL | `string` | n/a | yes |
 
-## Outputs
+## Checking your discord chanel :) 
 
-No outputs.
+![image](https://user-images.githubusercontent.com/84737230/200148885-de9c6470-e5f4-47a9-b87e-5f26e543faec.png)
