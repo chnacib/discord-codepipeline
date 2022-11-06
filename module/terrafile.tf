@@ -4,6 +4,6 @@ module "lambda_sns" {
   account_id    = "01234567890"
   token         = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   url           = "https://discord.com/api/v9/channels/xxxxxxxxxxxx/messages"
-  function_name = "aaaaaaaa"
-  topic_name = "aaaaaaaaa"  
+  function_name = "sample-function"
+  topic_name = "sample-topic"  
 }
