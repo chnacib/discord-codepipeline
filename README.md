@@ -1,6 +1,4 @@
-# discord-codepipeline
-
-## AWS Codepipeline notification for Discord
+# AWS Codepipeline notification for Discord
 
 A discord notification triggered by codepipeline, using SNS and AWS Lambda.
 
